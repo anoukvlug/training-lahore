@@ -1,25 +1,14 @@
+![logos](img/logo_line.png)
+
 # Welcome
 
-The Randolph Glacier Inventory ([RGI](https://www.glims.org/RGI)) is the reference global inventory of glacier outlines. This technical note provides documentation to the RGI users and contributors.
+This is the companion website to the [HUC Training on glacier modelling: Practical applications with the Open Global Glacier Model](https://huc-hkh.org/events/training-on-glacier-modelling-practical-applications-with-the-open-global-glacier-model) organized at LUMS in Lahore, Pakistan, from 10 March 2023 to 16 March 2023.
 
-```{warning}
+This website will be updated regularly before and during the workshop.
 
-**This technical note is a work in progress and refers to the beta version of RGI7.**
+## Organizers
 
-```
-
-```{admonition} Data download
-
-[Download the RGI7 beta version files](https://cluster.klima.uni-bremen.de/~fmaussion/misc/rgi7_data/l4_rgi7b0_tar/). For review only!
-```
-
-```{admonition} Contributing to this documentation
-:class: tip
-
-If you wish to contribute to this documentation, visit [CONTRIBUTING.md](https://github.com/GLIMS-RGI/rgi_user_guide/blob/main/CONTRIBUTING.md)
-
-```
-
+LIST here
 
 ## License
 
