@@ -2,7 +2,7 @@
 
 This schedule is only indicative! We will adapt to the participants questions and needs at the workshop advances.
 
-**Day 1 - Saturday 11 March 2023 - General overview and introduction**
+## Day 1 - Saturday 11 March 2023 - General overview and introduction
 
 **09:00 - 09:30**: Welcome by the organizers<br>
 **09:30 - 11:00**: Introduction to OGGM, presentation of the workshop (Fabien Maussion)<br>
@@ -17,7 +17,7 @@ This schedule is only indicative! We will adapt to the participants questions an
 **15:30 - 16:00**: Afternoon Tea/Cookies<br>
 **16:00 - 17:30**: Potential and pitfalls of open source models for research in Pakistan. Presentation (Fabien Maussion) and open discussion.<br>
 
-**Day 2 - Sunday 12 March 2023 - Introduction to Python and Jupyter**
+## Day 2 - Sunday 12 March 2023 - Introduction to Python and Jupyter
 
 **09:00 - 09:45**: Introduction of the participants<br>
 **09:45 - 10:45**: Brief intro about glacier system modeling (MB, etc, just enough to understand the rest)<br> 
@@ -26,22 +26,22 @@ This schedule is only indicative! We will adapt to the participants questions an
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (Anouk? Jakob?)<br> 
+**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
 **14:30 - 15:30**: Glacier mass balance (Anouk, Fabien): climatic mass balance - processes and modeling<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br>
 **16:00 - 18:00**: Practicals (temperature index model)<br>
 
-**Day 3 - Monday 13 March 2023 - Glacier mass balance - excursion**
+## Day 3 - Monday 13 March 2023 - Glacier dynamics - excursion
 
 **09:00 - 10:45**: Glacier dynamics (Patrick, Fabien): Ice flow dynamics + numerics of ice dynamics<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
-**11:15 - 13:00**: Practicals. Ice flow models in OGGM (including multiple flowline, IGM?)<br> 
+**11:15 - 13:00**: Practicals. Ice flow models in OGGM (including multiple flowline, IGM)<br> 
 
 **13:00 - 14:00**: Lunch break
 
 **Afternoon** excursion
 
-**Day 4 - Tuesday 14 March 2023 - Glacier mass balance (continued) - hydrology**
+## Day 4 - Tuesday 14 March 2023 - Glacier mass balance - hydrology
 
 **09:00 - 10:45**: Mass balance (Anouk, Fabien): climatic mass balance and climate datasets - calibration, bias correction, projections<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
@@ -49,12 +49,12 @@ This schedule is only indicative! We will adapt to the participants questions an
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (Fabien?)<br> 
-**14:30 - 15:30**: hydrology in OGGM<br> 
+**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
+**14:30 - 15:30**: Hydrology in OGGM<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
 **16:00 - 18:00**: Practicals. hydrological projections with OGGM, uncertainties<br> 
 
-**Day 5 - Wednesday 15 March 2023 - Open source - extending OGGM**
+## Day 5 - Wednesday 15 March 2023 - Open source - extending OGGM
 
 **09:00 - 10:45**: Open source scientific development (Fabien, Patrick, Anouk): working as a community / group of scientists and data sharing<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
@@ -62,9 +62,8 @@ This schedule is only indicative! We will adapt to the participants questions an
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (Patrick?)<br> 
-**14:30 - 15:30**: extending OGGM with your module<br> 
+**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
+**14:30 - 15:30**: Extending OGGM with your module<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
 **16:00 - 17:30**: Q&A followed by Practicals on Advanced OGGM<br> 
 **17:30 - 18:00**: Closing session of the workshop<br> 
-
