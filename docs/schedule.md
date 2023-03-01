@@ -19,4 +19,52 @@ This schedule is only indicative! We will adapt to the participants questions an
 
 **Day 2 - Sunday 12 March 2023 - Introduction to Python and Jupyter**
 
-etc.
+**09:00 - 09:45**: Introduction of the participants<br>
+**09:45 - 10:45**: Brief intro about glacier system modeling (MB, etc, just enough to understand the rest)<br> 
+**10:45 - 11:15**: Morning Tea/Snacks<br>
+**11:15 - 13:00**: Practicals (intro to Jupyter, python, simple glacier experiments with OGGM-Edu)<br>
+
+**13:00 - 14:00**: Lunch break
+
+**14:00 - 14:30**: Science input of the day (Anouk? Jakob?)<br> 
+**14:30 - 15:30**: Glacier mass balance (Anouk, Fabien): climatic mass balance - processes and modeling<br> 
+**15:30 - 16:00**: Afternoon Tea/Cookies<br>
+**16:00 - 18:00**: Practicals (temperature index model)<br>
+
+**Day 3 - Monday 13 March 2023 - Glacier mass balance - excursion**
+
+**09:00 - 10:45**: Glacier dynamics (Patrick, Fabien): Ice flow dynamics + numerics of ice dynamics<br> 
+**10:45 - 11:15**: Morning Tea/Snacks<br> 
+**11:15 - 13:00**: Practicals. Ice flow models in OGGM (including multiple flowline, IGM?)<br> 
+
+**13:00 - 14:00**: Lunch break
+
+**Afternoon** excursion
+
+**Day 4 - Tuesday 14 March 2023 - Glacier mass balance (continued) - hydrology**
+
+**09:00 - 10:45**: Mass balance (Anouk, Fabien): climatic mass balance and climate datasets - calibration, bias correction, projections<br> 
+**10:45 - 11:15**: Morning Tea/Snacks<br> 
+**11:15 - 13:00**: Practicals (calibration, projections, uncertainties)<br> 
+
+**13:00 - 14:00**: Lunch break
+
+**14:00 - 14:30**: Science input of the day (Fabien?)<br> 
+**14:30 - 15:30**: hydrology in OGGM<br> 
+**15:30 - 16:00**: Afternoon Tea/Cookies<br> 
+**16:00 - 18:00**: Practicals. hydrological projections with OGGM, uncertainties<br> 
+
+**Day 5 - Wednesday 15 March 2023 - Open source - extending OGGM**
+
+**09:00 - 10:45**: Open source scientific development (Fabien, Patrick, Anouk): working as a community / group of scientists and data sharing<br> 
+**10:45 - 11:15**: Morning Tea/Snacks<br> 
+**11:15 - 13:00**: Practicals (git / github, zenodo)<br> 
+
+**13:00 - 14:00**: Lunch break
+
+**14:00 - 14:30**: Science input of the day (Patrick?)<br> 
+**14:30 - 15:30**: extending OGGM with your module<br> 
+**15:30 - 16:00**: Afternoon Tea/Cookies<br> 
+**16:00 - 17:30**: Q&A followed by Practicals on Advanced OGGM<br> 
+**17:30 - 18:00**: Closing session of the workshop<br> 
+
