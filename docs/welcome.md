@@ -8,7 +8,7 @@ This website will be updated regularly before and during the workshop.
 
 ## Organizers
 
-LIST here
+
 
 ## License
 
