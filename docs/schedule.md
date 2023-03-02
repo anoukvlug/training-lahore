@@ -78,7 +78,7 @@ We will adapt to the participants questions and requests during the workshop.
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
+**14:00 - 14:30**: Science input of the day (Jakob)<br> 
 **14:30 - 15:30**: Extending OGGM with your module<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
 **16:00 - 17:30**: Q&A followed by Practicals on Advanced OGGM<br> 
