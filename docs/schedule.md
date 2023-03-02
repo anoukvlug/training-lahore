@@ -36,7 +36,7 @@ We will adapt to the participants questions and requests during the workshop.
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
+**14:00 - 14:30**: Science input of the day (Anouk)<br> 
 **14:30 - 15:30**: Glacier mass balance (Anouk, Fabien): climatic mass balance - processes and modeling<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br>
 **16:00 - 18:00**: Practicals (temperature index model)<br>
@@ -63,7 +63,7 @@ We will adapt to the participants questions and requests during the workshop.
 
 **13:00 - 14:00**: Lunch break
 
-**14:00 - 14:30**: Science input of the day (speaker TBA)<br> 
+**14:00 - 14:30**: Science input of the day (Patrick)<br> 
 **14:30 - 15:30**: Hydrology in OGGM<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
 **16:00 - 18:00**: Practicals. hydrological projections with OGGM, uncertainties<br> 
