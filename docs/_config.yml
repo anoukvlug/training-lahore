@@ -34,6 +34,7 @@ sphinx:
 execute:
   execute_notebooks: auto
   allow_errors: true
+  timeout: -1
 exclude_patterns: [.virtual_documents/*]
 parse:
   myst_enable_extensions:
