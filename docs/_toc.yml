@@ -1,14 +1,13 @@
 format: jb-book
 root: welcome
 parts:
-  - caption: Introduction
+  - caption: Organization
     chapters:
     - file: schedule
-    - file: organization
   - caption: Day 01 - General overview
     chapters:
     - file: day_1/intro
-  - caption: Day 02 - General overview
+  - caption: Day 02 - Glacier system modelling
     chapters:
     - file: day_2/jupyter
-
+    
