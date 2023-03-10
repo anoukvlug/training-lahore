@@ -10,4 +10,9 @@ parts:
   - caption: Day 02 - Glacier system modelling
     chapters:
     - file: day_2/jupyter
-    
+    - file: day_2/notebooks/morning_practicals_welcome
+      sections:
+      - file: day_2/notebooks/01_getting_started_with_notebooks
+      - file: day_2/notebooks/02_oggm_workflow_intro
+      - file: day_2/notebooks/02_Solution
+      - file: day_2/notebooks/03_run_with_gcm
