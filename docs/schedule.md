@@ -23,7 +23,7 @@ We will adapt to the participants questions and requests during the workshop.
 **14:00 - 14:45**: Scientific presentation 3 (Fabien Maussion): *Climate policy and global glacier change - putting an ice cost to our greenhouse gas emissions*<br>
 **14:45 - 15:30**: Scientific presentation 4 (Fahad Saeed): *Application of University of British Columbia's Watershed Model over Upper Indus Basin*<br>
 **15:30 - 16:00**: Afternoon Tea/Cookies<br>
-**16:00 - 18:00**: Potential and pitfalls of open source models for research in Pakistan. Presentation (Jakob Steiner, Fabien Maussion) and open discussion with participants.<br>
+**16:00 - 17:30**: Potential and pitfalls of open source models for research in Pakistan. Presentation (Jakob Steiner, Fabien Maussion) and open discussion with participants.<br>
 
 ## Day 2 - Introduction to Python and OGGM, Mass balance
 
@@ -39,7 +39,10 @@ We will adapt to the participants questions and requests during the workshop.
 **14:00 - 14:30**: Science input of the day (Anouk)<br> 
 **14:30 - 15:30**: Glacier mass balance (Anouk, Fabien): climatic mass balance - processes and modeling<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br>
-**16:00 - 18:00**: Practicals (temperature index model)<br>
+**16:00 - 17:30**: Practicals (temperature index model)<br>
+
+
+**19:30: workshop dinner!**
 
 ## Day 3 - Glacier dynamics - excursion
 
@@ -58,14 +61,14 @@ We will adapt to the participants questions and requests during the workshop.
 **09:00 - 10:15**: Glacier dynamics (continued)<br> 
 **10:15 - 10:45**: Mass balance (Anouk, Fabien): climatic mass balance and climate datasets - calibration, bias correction, projections<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
-**11:15 - 13:00**: Practicals (calibration, projections, uncertainties)<br> 
+**11:15 - 17:30**: Practicals (calibration, projections, uncertainties)<br> 
 
 **13:00 - 14:00**: Lunch break
 
 **14:00 - 14:30**: Science input of the day (Patrick)<br> 
 **14:30 - 15:30**: Hydrology in OGGM: partitioning, peak water.<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
-**16:00 - 18:00**: Practicals. Hydrological projections with OGGM.<br> 
+**16:00 - 17:30**: Practicals. Hydrological projections with OGGM.<br> 
 
 ## Day 5 - Open source - extending OGGM
 
@@ -80,5 +83,5 @@ We will adapt to the participants questions and requests during the workshop.
 **14:00 - 14:30**: Science input of the day (Jakob)<br> 
 **14:30 - 15:30**: Extending OGGM with your module<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
-**16:00 - 17:30**: Q&A followed by Practicals on Advanced OGGM<br> 
-**17:30 - 18:00**: Closing session of the workshop<br> 
+**16:00 - 17:00**: Q&A followed by Practicals on Advanced OGGM<br> 
+**17:30 - 17:30**: Closing session of the workshop<br> 
