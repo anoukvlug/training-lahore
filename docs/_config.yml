@@ -14,6 +14,10 @@ repository:
   url: https://github.com/OGGM/training-lahore
   path_to_book: docs 
   branch: main
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://mybinder.org"
+  jupyterhub_url: "https://classroom.oggm.org"
 html:
   use_repository_button: true
   use_issues_button: true

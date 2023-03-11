@@ -9,10 +9,9 @@ parts:
     - file: day_1/intro
   - caption: Day 02 - Glacier system modelling
     chapters:
-    - file: day_2/jupyter
-    - file: day_2/notebooks/morning_practicals_welcome
+    - file: day_2/welcome
       sections:
-      - file: day_2/notebooks/01_getting_started_with_notebooks
-      - file: day_2/notebooks/02_oggm_workflow_intro
-      - file: day_2/notebooks/02_Solution
-      - file: day_2/notebooks/03_run_with_gcm
+      - file: day_2/01_getting_started_with_notebooks
+      - file: day_2/02_oggm_workflow_intro
+      - file: day_2/02_solution_oggm_intro
+      - file: day_2/03_temperature_index_model
