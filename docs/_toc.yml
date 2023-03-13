@@ -15,3 +15,9 @@ parts:
       - file: day_2/02_oggm_workflow_intro
       - file: day_2/02_solution_oggm_intro
       - file: day_2/03_temperature_index_model
+  - caption: Day 03 - Glacier dynamics
+    chapters:
+    - file: day_3/welcome
+      sections:
+      - file: day_3/01_ice_flow_parameters
+      - file: day_3/02_surging_experiment

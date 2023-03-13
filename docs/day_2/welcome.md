@@ -6,4 +6,5 @@
 - [Solution to the coding activities: "A first projection in OGGM"](02_solution_oggm_intro.ipynb)
 
 **Afternoon session:**
+- Experiments with the [mass balance app](https://edu.oggm.org/en/latest/mb_simulator.html)
 - [Coding a simple temperature index model](03_temperature_index_model.ipynb)

@@ -58,10 +58,9 @@ We will adapt to the participants questions and requests during the workshop.
 
 *Tuesday 14 March 2023*
 
-**09:00 - 10:15**: Glacier dynamics (continued)<br> 
-**10:15 - 10:45**: Mass balance (Anouk, Fabien): climatic mass balance and climate datasets - calibration, bias correction, projections<br> 
+**09:00 - 10:45**: Mass balance (Anouk, Fabien): climatic mass balance and climate datasets - calibration, bias correction, projections<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
-**11:15 - 17:30**: Practicals (calibration, projections, uncertainties)<br> 
+**11:15 - 13:00**: Practicals (calibration, projections, uncertainties)<br> 
 
 **13:00 - 14:00**: Lunch break
 
@@ -81,7 +80,6 @@ We will adapt to the participants questions and requests during the workshop.
 **13:00 - 14:00**: Lunch break
 
 **14:00 - 14:30**: Science input of the day (Jakob)<br> 
-**14:30 - 15:30**: Extending OGGM with your module<br> 
+**14:30 - 15:30**: Extending OGGM with your module or data<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
-**16:00 - 17:00**: Q&A followed by Practicals on Advanced OGGM<br> 
-**17:30 - 17:30**: Closing session of the workshop<br> 
+**16:00 - 17:30**: Closing session of the workshop<br> 
