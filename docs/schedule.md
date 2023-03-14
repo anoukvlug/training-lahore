@@ -73,7 +73,9 @@ We will adapt to the participants questions and requests during the workshop.
 
 *Wednesday 15 March 2023*
 
-**09:00 - 10:45**: Open source scientific development (Fabien, Patrick, Anouk): working as a community / group of scientists<br> 
+**09:00 - 10:15**: Open source scientific development (Fabien, Patrick, Anouk): working as a community / group of scientists<br> 
+**10:15 - 10:30**: Tour of the research facilities
+**10:30 - 10:45**: Continue working with the notebooks
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
 **11:15 - 13:00**: Practicals (git / github, zenodo)<br> 
 
