@@ -73,15 +73,14 @@ We will adapt to the participants questions and requests during the workshop.
 
 *Wednesday 15 March 2023*
 
-**09:00 - 10:15**: Open source scientific development (Fabien, Patrick, Anouk): working as a community / group of scientists<br> 
-**10:15 - 10:30**: Tour of the research facilities
-**10:30 - 10:45**: Continue working with the notebooks
+**09:00 - 10:15**: Water resources - continued<br> 
+**10:15 - 10:45**: Tour of the research facilities
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
-**11:15 - 13:00**: Practicals (git / github, zenodo)<br> 
+**11:15 - 13:00**: Extending OGGM with your module or data<br>
 
 **13:00 - 14:00**: Lunch break
 
 **14:00 - 14:30**: Science input of the day (Jakob)<br> 
-**14:30 - 15:30**: Extending OGGM with your module or data<br> 
+**14:30 - 15:30**: Open source scientific development: working as a community / group of scientists with git / github, zenodo<br> 
 **15:30 - 16:00**: Afternoon Tea/Cookies<br> 
 **16:00 - 17:30**: Closing session of the workshop<br> 
