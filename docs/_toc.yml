@@ -21,3 +21,10 @@ parts:
       sections:
       - file: day_3/01_ice_flow_parameters
       - file: day_3/02_surging_experiment
+  - caption: Day 04 - Calibration, hydrology
+    chapters:
+    - file: day_4/welcome
+      sections:
+      - file: day_4/01_data_prep
+      - file: day_4/02_massbalance_calibration
+      - file: day_4/03_inversion
