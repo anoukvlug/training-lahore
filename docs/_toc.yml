@@ -28,3 +28,5 @@ parts:
       - file: day_4/01_data_prep
       - file: day_4/02_massbalance_calibration
       - file: day_4/03_inversion
+      - file: day_4/04_glacier_water_resources
+      - file: day_4/05_glacier_water_resources_projections
