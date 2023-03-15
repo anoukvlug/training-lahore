@@ -30,3 +30,9 @@ parts:
       - file: day_4/03_inversion
       - file: day_4/04_glacier_water_resources
       - file: day_4/05_glacier_water_resources_projections
+  - caption: Day 05 - Open development, open questions
+    chapters:
+    - file: day_5/welcome
+      sections:
+      - file: day_5/01_basin_scale_analysis
+      - file: day_5/02_user_defined_mb_model
