@@ -6,7 +6,10 @@ This is the companion website to the [HUC Training on glacier modelling: Practic
 
 ```{note}
 
-This website will be updated regularly before and during the workshop!
+The training is now over! We will leave this website up for documentation purposes.
+
+
+**For future updates, visit [the OGGM documentation](https://docs.oggm.org) and [tutorials](https://oggm.org/tutorials).**
 
 ```
 

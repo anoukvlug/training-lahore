@@ -74,9 +74,9 @@ We will adapt to the participants questions and requests during the workshop.
 *Wednesday 15 March 2023*
 
 **09:00 - 10:15**: Water resources - continued<br> 
-**10:15 - 10:45**: Tour of the research facilities
+**10:15 - 10:45**: Tour of the research facilities at LUMS<br> 
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
-**11:15 - 13:00**: Extending OGGM with your module or data<br>
+**11:15 - 13:00**: Extending OGGM with your own module or forcing data<br>
 
 **13:00 - 14:00**: Lunch break
 
