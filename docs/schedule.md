@@ -52,7 +52,7 @@ We will adapt to the participants questions and requests during the workshop.
 **10:45 - 11:15**: Morning Tea/Snacks<br> 
 **11:15 - 12:00**: Practicals: ice flow parameters in idealized cases (OGGM-Edu), ice flow models in OGGM<br> 
 
-**12:00 - open ended**: excursion to WAPDA offices 
+**12:00 - open ended**: excursion to WAPDA station 
 
 ## Day 4 - Model calibration - OGGM hydrology
 
